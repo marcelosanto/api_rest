@@ -16,5 +16,8 @@
     "eslint-plugin-import": "^2.18.2",
     "nodemon": "^2.0.1",
     "sucrase": "^3.10.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }

@@ -14,6 +14,7 @@ module.exports = {
   },
   rules: {
     "no-console": "off",
-    semi: ["error", "never"]
+    semi: ["error", "never"],
+    "class-methods-use-this": "off",
   }
 };
